@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Filipov Jekyll Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Toto je krátky opis blogu alebo describtion
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://www.letterinkapp.com/images/ltr-logo_1.svg
 
 #
 # Flags below are optional
